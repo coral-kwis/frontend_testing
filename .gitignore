@@ -1,0 +1,8 @@
+reports/
+envpy3/
+NOTES/
+logs/
+__pycache__/
+.idea
+*.pyc
+*.log
